@@ -22,7 +22,7 @@
 </div><br/>
 Bem vindo!
 Este é um espaço dedicado a atividades e projetos em análise de dados. Aqui, você pode acompanhar a minha evolução como analista ao longo da minha trajetória, desde os primeiros passos até os projetos mais recentes.
-Acredito que a prática contínua é essencial para dominar essa área e estou sempre buscando desafios para aprimorar minhas habilidades."
+Acredito que a prática contínua é essencial para dominar essa área e estou sempre buscando desafios para aprimorar minhas habilidades.
 
 ## Email para contato:
 
