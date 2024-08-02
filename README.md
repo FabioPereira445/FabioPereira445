@@ -24,6 +24,3 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
           
 </div><br/>
 
-## Email para contato:
-
-[!(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabioalves.js15@gmail.com)
