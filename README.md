@@ -14,14 +14,12 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
 <div>
   <img align="center" alt="Sql" src="image/img_python.svg"/>
    <img align="center" alt="Sql" src="image/img_Sql.svg"/>
-   <img align="center" alt="matplotlib" src="image/img_matplotlib.svg"/>
    <img align="center" alt="numpy" src="image/img_numpy.svg"/>
    <img align="center" alt="pandas" src="image/img_pandas.svg"/>
    <img align="center" alt="seaborn" src="image/img_seaborn.svg"/>
    <img align="center" alt="sckitlearn" src="image/img_sckitlearn.svg"/>
    <img align="center" alt="AWS Service" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-   <img align="center" alt="sckitlearn" src="image/img_github.svg"/>
-  
+   <img align="center" alt="github" src="image/img_github.svg"/>
   <img align="center" alt="sckitlearn" src="image/img_VScode.svg"/>
 </div>
 <br>
