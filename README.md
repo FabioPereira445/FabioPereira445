@@ -12,15 +12,18 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
 ## Sobre habilidades e tecnologias que utilizo: 🧑‍💻
 
 <div>
-  <img align="center" alt="Sql" src="image/img_python.svg"/>
-   <img align="center" alt="Sql" src="image/img_Sql.svg"/>
-   <img align="center" alt="numpy" src="image/img_numpy.svg"/>
-   <img align="center" alt="pandas" src="image/img_pandas.svg"/>
-   <img align="center" alt="seaborn" src="image/img_seaborn.svg"/>
-   <img align="center" alt="sckitlearn" src="image/img_sckitlearn.svg"/>
-   <img align="center" alt="AWS Service" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-   <img align="center" alt="github" src="image/img_github.svg"/>
-  <img align="center" alt="sckitlearn" src="image/img_VScode.svg"/>
+ <h2>4. Ferramentas utilizadas</h2>
+<img src="images/img_python.svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
+<img src="images/img_VScode.svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
+<img src="images/img_jupyter.svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
+<h3>4.1 Bilbliotecas Python utilizadas</h3>
+<h3> Manipulação de dados</h3>
+<img src="images/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
+<img src="images/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+<img src="images/img_geopandas.png" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+<h3> EDA</h3>
+<img src="images/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
+<img src="images/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
 </div>
 <br>
   
