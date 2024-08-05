@@ -25,9 +25,14 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
   
  <img src="image/img_sckitlearn.svg" alt="" width="85" height="25" title="sckitlearn">
  <img src="image/img_sckitlearn.svg" alt="" width="85" height="25" title="">
-</div>
+
+   # Projetos Em Destaque: 🧑‍💻
+<h2> Projeto-01:Análise Exploratória de Dados em Python: Empresa Loggi</h2>
+<h3>Objetivo: </h3>
+O projeto de análise exploratória de dados foi realizado para a empresa Loggi, uma startup brasileira de logística. O objetivo foi entender e otimizar os desafios logísticos enfrentados pela empresa, com foco em rotas de entrega e a alocação de pedidos em veículos com capacidade limitada.
+<h4>Link de Acesso:</h4>(https://github.com/FabioPereira445/Projeto-01/)
 <br>
-  
+
           
 </div><br/>
 
