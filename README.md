@@ -30,7 +30,9 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
 <h2> 🚚Projeto 1:Análise Exploratória de Dados em Python: Empresa Loggi</h2>
 <h3>Objetivo </h3>
 O projeto de análise exploratória de dados foi realizado para a empresa Loggi, uma startup brasileira de logística. O objetivo foi entender e otimizar os desafios logísticos enfrentados pela empresa, com foco em rotas de entrega e a alocação de pedidos em veículos com capacidade limitada.
-
+<img src="image/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
+<img src="image/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
+<H3><a href="https://github.com/FabioPereira445/Projeto-01">Acesse o projeto aqui</a></H3>
 
 <br>
 
