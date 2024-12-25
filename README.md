@@ -42,7 +42,7 @@ O projeto de análise exploratória de dados foi realizado para a empresa Loggi,
 <h3> EDA</h3>
 <img src="image/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
 <img src="image/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
-<H3><a href="https://github.com/FabioPereira445/Projeto-01">Acesse o projeto aqui</a></H3>
+<H3><a href="https://github.com/FabioPereira445/Projeto-01">Clique Aqui para Explorar o Projeto! </a></H3>
 
 <h2> 🚚Projeto 2:Análise Exploratória de Dados: Covid-19</h2>
 <h3>Objetivo </h3>
@@ -56,8 +56,8 @@ O objetivo principal do projeto é fornecer uma compreensão detalhada do impact
 <img src="image/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
 <img src="image/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
 <h3> EDA</h3>
-<img src="images/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_looker-data">
-<H3><a href="https://github.com/FabioPereira445/Projeto-2/tree/main">Acesse o projeto aqui</a></H3>    
+<img src="image/img-google-data-studio (1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_looker-data">
+<H3><a href="https://github.com/FabioPereira445/Projeto-2/tree/main">Clique Aqui para Explorar o Projeto! </a></H3>    
 </div><br/>
 
 
