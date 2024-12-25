@@ -57,7 +57,7 @@ O objetivo principal do projeto é fornecer uma compreensão detalhada do impact
 <img src="image/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
 <h3> EDA</h3>
 <img src="images/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_looker-data">
-          
+<H3><a href="https://github.com/FabioPereira445/Projeto-2/tree/main">Acesse o projeto aqui</a></H3>    
 </div><br/>
 
 
