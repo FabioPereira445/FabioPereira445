@@ -16,6 +16,8 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
  <img src="image/img_python.svg" alt="" width="85" height="25" title="img_python">
  <img src="image/img_VScode.svg" alt="" width="85" height="25" title="img_VScode">
  <img src="image/img_Sql.svg" alt="" width="85" height="25" title="img_python">
+ <img src="image/s3.png" alt="Uma bela paisagem" width="75" height="25" title="SQL">
+ <img src="image/Athena.png" alt="Uma bela paisagem" width="75" height="25" title="ATHENA">
 
  <img src="image/img_pandas.svg" alt="" width="85" height="25" title="img_pandas">
  <img src="image/img_seaborn.svg" alt="" width="85" height="25" title="img_jupyter">
