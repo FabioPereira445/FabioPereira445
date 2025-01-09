@@ -44,7 +44,7 @@ O projeto de análise exploratória de dados foi realizado para a empresa Loggi,
 <img src="image/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
 <H3><a href="https://github.com/FabioPereira445/Projeto-01">Clique Aqui para Explorar o Projeto! </a></H3>
 
-<h2> 🚚Projeto 2:Análise Exploratória de Dados: Covid-19</h2>
+<h2> 🦠Projeto 2:Análise Exploratória de Dados: Covid-19</h2>
 <h3>Objetivo </h3>
 O objetivo principal do projeto é fornecer uma compreensão detalhada do impacto da pandemia no Brasil até 30 de dezembro de 2021, destacando áreas críticas que precisam de intervenção e estratégias recomendadas para mitigar a disseminação do vírus.
 <h3>Ferramentas Utilizadas</h3>
@@ -59,7 +59,7 @@ O objetivo principal do projeto é fornecer uma compreensão detalhada do impact
 <img src="image/img-google-data-studio (1).svg" alt="Uma bela paisagem" width="75" height="25" title="img_looker-data">
 <H3><a href="https://github.com/FabioPereira445/Projeto-2/tree/main">Clique Aqui para Explorar o Projeto! </a></H3>    
 
-<h2> 🚚Projeto 3:EDA e Análise de Crédito com SQL</h2>
+<h2> 📊Projeto 3:EDA e Análise de Crédito com SQL</h2>
 <h3>Objetivo </h3>
 O objetivo do projeto é realizar uma análise detalhada dos dados de crédito utilizando SQL para identificar padrões e insights sobre os clientes,otimizando campanhas de marketing e revisando critérios de concessão de crédito.
 <h3>Ferramentas Utilizadas</h3>
