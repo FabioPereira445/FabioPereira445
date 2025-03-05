@@ -23,6 +23,7 @@ Bem vindo! Este é um espaço dedicado a atividades e projetos em Análise de Da
  <img src="image/APIgateway.png" alt="Uma bela paisagem" width="75" height="25" title="APIGateway">
  <img src="image/AWS_stepfun.png" alt="Uma bela paisagem" width="75" height="25" title="AWS_Stepfunctions">
  <img src="image/AWS-EVENT.png" alt="Uma bela paisagem" width="75" height="25" title="AWS_EventBridge">
+ <img src="image/Looker Studio.png" alt="Uma bela paisagem" width="75" height="25" title="Looker_Studio">
    
 
  <img src="image/img_pandas.svg" alt="" width="85" height="25" title="img_pandas">
