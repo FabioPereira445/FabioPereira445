@@ -85,3 +85,20 @@ O objetivo do projeto é realizar uma análise detalhada dos dados de crédito u
 </div><br/>
 
 
+<h2> 📊Projeto 4:Pipeline de Dados do Telegram </h2>
+<h3>Objetivo </h3>
+O objetivo visa Construir um pipeline de dados que coleta, processa e apresenta mensagens de um grupo do Telegram, utilizando os serviços AWS S3, Lambda, API Gateway, EventBridge e Athena de forma eficiente e escalável.
+<h3>Ferramentas Utilizadas</h3>
+<img src="image/img_python.svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
+<h3>Bibliotecas Python utilizadas</h3>
+<h3> Manipulação de dados</h3>
+<img src="image//img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="">
+<img src="image//img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="">
+<h3> EDA</h3>
+<img src="image/s3.png" alt="Uma bela paisagem" width="75" height="25" title="SQL">
+<img src="image/sql (1).png" alt="Uma bela paisagem" width="75" height="25" title="S3">
+<img src="image/Athena.png" alt="Uma bela paisagem" width="75" height="25" title="ATHENA">
+<H3><a href="https://github.com/FabioPereira445/Projeto-3">Clique Aqui para Explorar o Projeto! </a></H3>  
+</div><br/>
+
+
